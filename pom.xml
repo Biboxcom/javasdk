@@ -15,7 +15,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <junit.version>4.11</junit.version>
+        <junit.version>4.13.1</junit.version>
         <codec.version>1.10</codec.version>
         <fast.version>1.2.59</fast.version>
         <okhttp3.version>4.0.1</okhttp3.version>
