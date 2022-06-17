@@ -17,7 +17,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <junit.version>4.11</junit.version>
         <codec.version>1.10</codec.version>
-        <fast.version>1.2.59</fast.version>
+        <fast.version>1.2.83</fast.version>
         <okhttp3.version>4.0.1</okhttp3.version>
         <websocket.version>1.1</websocket.version>
         <tyrus.version>1.13.1</tyrus.version>
